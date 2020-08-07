@@ -1,4 +1,4 @@
 # hello-world
-Hello World in github
+Hello World for github
 
 Aydan here, I like java and eclipse very much :D
